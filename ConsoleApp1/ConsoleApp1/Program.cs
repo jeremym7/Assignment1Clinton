@@ -267,3 +267,7 @@ namespace Assignment1
     }
 }
 
+//I learned a lot in this assginement but I feel like I was thrown to the wolves with how fast it ramped up given my prior c# knowledge. 
+//Luckily I know other coding languages which helped out a lot.
+//
+
